@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{6A0FB1E0-E76D-448D-B5A5-D3CAE834E7B5}|Default">
+  <MonoDevelop.Ide.ItemProperties.JenkinsFastLaneTestApp.Android FirstBuild="True" PreferredExecutionTarget="Android.Pixel_2_XL_API_24" />
+  <MonoDevelop.Ide.ItemProperties.JenkinsFastLaneTestApp FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JenkinsFastLaneTestApp" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.JenkinsFastLaneTestApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

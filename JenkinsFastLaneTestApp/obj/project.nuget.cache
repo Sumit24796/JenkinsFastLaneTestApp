@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "V1heJy1NtzD6Iigs4i9OPR/a/MemeN9y5CpW6Pu4C4mu3moucgU0Bj3qChL4Svaopl9S2JM+3pvvZ03dLnwlKA==",
+  "success": true,
+  "projectFilePath": "/Users/susingh/Desktop/JenkinsFastlaneApp/JenkinsFastLaneTestApp/JenkinsFastLaneTestApp/JenkinsFastLaneTestApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/susingh/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/susingh/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/susingh/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/susingh/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/susingh/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
